@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/drawable/ic_home.xml" value="0.2203125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_android14.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_android18.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_android4.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_attachment.xml" value="0.18" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_bahasa_row.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_data_kegiatan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_google.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_language.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_list_view.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_notes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_phone.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_semua_tugas.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_semua_tugas2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_setting.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/activity_tugas_saya.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/bahasa_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/child_item.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/fragment_first.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/fragment_third.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/gaya_baru.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/layout/grup_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/MyMemoApp/app/src/main/res/menu/main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
